@@ -1,0 +1,27 @@
+{
+  "name": "ModuleRouter",
+  "version": "0.1.0",
+  "summary": "A simple framework to decouple modules",
+  "description": "Simple framework to decouple modules.",
+  "homepage": "https://github.com/zhenglibao/ModuleRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhenglibao": "zhenglibao@haizhi.com"
+  },
+  "source": {
+    "git": "https://github.com/zhenglibao/ModuleRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ModuleRouter/Classes/**/*",
+  "dependencies": {
+    "YYModel": [
+      "1.0.4"
+    ]
+  }
+}

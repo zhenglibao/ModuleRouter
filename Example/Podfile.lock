@@ -1,0 +1,25 @@
+PODS:
+  - Expecta (1.0.6)
+  - ModuleRouter (0.1.0):
+    - YYModel (= 1.0.4)
+  - Specta (1.0.7)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Expecta
+  - ModuleRouter (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  ModuleRouter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  ModuleRouter: 69b0adfed0b60973de3dab562c5bff2ba3248629
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 900012a25b8d54c5e5a260cc7f0beece17de3be7
+
+COCOAPODS: 1.4.0.beta.2
